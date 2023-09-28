@@ -1,0 +1,12 @@
+body {
+    background-image: url(../img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    color: brown;
+}
+
+h1{
+    margin: auto;
+}
+
+a{
+    text-decoration-color: darkslategray;
+}
