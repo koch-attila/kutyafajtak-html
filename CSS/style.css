@@ -3,26 +3,47 @@ body {
     color: #4d0808;
 }
 
-h1{
+h1 {
     margin: auto;
 }
 
-a{
+a {
     text-decoration-color: darkslategray;
 }
 
-table{
+table {
     border: 1px solid #aa7777;
     margin: auto;
 }
 
-td{
+td {
     padding: .5rem;
 }
 
-.minikep{
+.minikep {
     float: right;
     width: 400px;
     margin-left: 20px;
     border: 3px solid #4d0808;
+}
+
+p {
+    line-height: 1.5;
+    text-indent: 1cm;
+}
+
+.kepek {
+    text-align: center;
+    float: none;
+}
+.kep{
+width: 280px;
+vertical-align: middle;
+background-color:white;
+padding: 10px;
+margin: 5px;
+border: 1px solid #4d0808;
+box-shadow: 3px 3px 10px #4d0808;
+
+
 }
